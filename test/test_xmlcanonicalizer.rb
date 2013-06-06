@@ -54,5 +54,4 @@ class TestXmlcanonicalizer < Test::Unit::TestCase
     
     assert_equal xml_expect, xml_canonicalized
   end
-
 end
